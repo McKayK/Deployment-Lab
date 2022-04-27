@@ -1,0 +1,17 @@
+.heading {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: teal;
+}
+
+.img {
+  height: 200px;
+  width: 200px;
+  background-image: url("https://d2zap0z9ahyacn.cloudfront.net/eyJidWNrZXQiOiJwcnNpbWFnZXMiLCJrZXkiOiJibG9nLzIwMjItbmV3LXByb2R1Y3RzLWhlYWRlci5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjgyLCJwcm9ncmVzc2l2ZSI6dHJ1ZSwidHJlbGxpc1F1YW50aXNhdGlvbiI6dHJ1ZSwib3ZlcnNob290RGVyaW5naW5nIjp0cnVlLCJvcHRpbWl6ZVNjYW5zIjp0cnVlfSwicmVzaXplIjp7IndpZHRoIjoxOTIwLCJoZWlnaHQiOjEyODAsImZpdCI6ImNvdmVyIn0sInNoYXJwZW4iOnRydWV9fQ==");
+  background-size: cover;
+}
+
+button {
+  cursor: pointer;
+}
